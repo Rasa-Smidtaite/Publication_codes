@@ -1,1 +1,1 @@
-# Publication_codes
+The folder "Spiral Waves of Divergence in the Barkley Model of Nilpotent Matrices" contains Matlab codes - separate files for each figure. All supplementary files are in the same folder. 
